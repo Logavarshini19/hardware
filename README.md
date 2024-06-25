@@ -1,4 +1,4 @@
-# hardware bit
+# hardware code
 // code for led
 #include <LPC21XX.H>
 char switchStatus;
